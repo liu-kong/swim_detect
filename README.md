@@ -13,4 +13,4 @@ The main function is to detect video, pictures, identify the drowning person and
 
 
 
-群 :730162566
+联系作者：dashuaib.lk@gmail.com
